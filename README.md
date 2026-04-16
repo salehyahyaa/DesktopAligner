@@ -1,5 +1,5 @@
 # Desktop Aligner
-A macOS utility that vertically aligns selected files and folders using Finder automation.
+- A macOS utility that vertically aligns selected files and folders using Finder automation.
 ---
 
 
@@ -66,7 +66,7 @@ Replace with your actual path.
 ---
 
 ### 7. Save
-Name:
+Name It:
 ```
 Align Files
 ```
