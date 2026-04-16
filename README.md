@@ -10,7 +10,7 @@
 
 
 ## Limitations
-- Alignment works only inside folders
+- Alignment works only inside a folder
 - Does not work on the main Desktop (home screen)
 
 
