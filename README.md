@@ -13,7 +13,7 @@
 ### Before (Messy Organization)
 <img src="media/before.png" width="600"/>
 
-### After (Clean Organization)
+### After (Clicking "Align Files")
 <img src="media/after.png" width="600"/>
 
 
@@ -112,9 +112,13 @@ DesktopAligner/
 ├── src/
 │   └── align.py
 │
+├── media/
+│   ├── before.png
+│   └── after.png
+│
 ├── README.md
-└── .gitignore
-```
+├── LICENSE
+└── .gitignore```
 ---
 
 ## License
