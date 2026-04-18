@@ -11,10 +11,10 @@
 
 ## Preview
 ### Before (Messy Organization)
-<img src="assets/before.png" width="600"/>
+<img src="media/before.png" width="600"/>
 
 ### After (Auto Aligned)
-<img src="assets/after.png" width="600"/>
+<img src="media/after.png" width="600"/>
 
 
 ## Limitations
