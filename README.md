@@ -5,7 +5,7 @@
 
 ## Feature
 - Align selected files/folders vertically
-- Works via right-click → Quick Actions
+- Works via right-click → Quick Actions → Align Files
 - Preserves topmost item as anchor
 
 
@@ -13,7 +13,7 @@
 ### Before (Messy Organization)
 <img src="media/before.png" width="600"/>
 
-### After (Auto Aligned)
+### After (Clean Organization)
 <img src="media/after.png" width="600"/>
 
 
