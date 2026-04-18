@@ -9,10 +9,17 @@
 - Preserves topmost item as anchor
 
 
+## Preview
+### Before (Messy Organization)
+<img src="assets/before.png" width="600"/>
+
+### After (Auto Aligned)
+<img src="assets/after.png" width="600"/>
+
+
 ## Limitations
 - Alignment works only inside a folder
 - Does not work on the main Desktop (home screen)
-
 
 
 ## Setup
